@@ -199,8 +199,8 @@ section .title {
 }
 .bg {
   background: url("images/akki2.jpeg");
-  width: 100%;
-  margin-left: 10%;
+  width: 50%;
+/*   margin-left: 10%; */
   margin-top: 15px;
 }
 .home .hire {
